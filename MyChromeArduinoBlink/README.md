@@ -6,7 +6,7 @@ The Arduino sketch also sends back the blink count. This way you can figure out 
 
 To mimic what the Arduino is doing on pin 13 the chrome log turns on and off just like it would on the Arduino pin 13.
 
-The port filters out Bluetooth and only looks for /dev/tty strings, this worked on Mac OS X and Chrome 27 but not sure if its the same on Windows.
+The port filters out Bluetooth and only looks for /dev/tty strings, this worked on Mac OS X and Chrome 41 but not sure if its the same on Windows.
 
 ## Install Chrome App
 
